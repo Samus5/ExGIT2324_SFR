@@ -7,7 +7,7 @@ Los contenidos que se tratan en este modulo son:
 -Testing. JUNIT
 -UML
 
-(https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
+![Foto del IES Picasso](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
 
 En la pagina web del [IES Pablo Picasso](https://fpiespablopicasso.es) podrás encontrar mas informacion.
 
